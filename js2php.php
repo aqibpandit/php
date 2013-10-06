@@ -7,7 +7,7 @@ var var2=value2;
 ..
 var varN=valueN;
 
-location.href="http://localhost/phpFileName.php?var1="+var1+"&var2="+var2+....."&varN="+varN";
+location.href="http://localhost/phpFileName.php?var1="+var1+"&var2="+var2+....."&varN="+varN;
 //when you open html file in browser you will be redirected to php file due to above code line.
 
 </script>
